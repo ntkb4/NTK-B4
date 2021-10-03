@@ -6,5 +6,7 @@ public class Team1Demo {
 		System.out.println("Team 1");
 		System.out.println("Trap...");
 	}
-
+ 
+	boolean isSunday = true;
+	
 }
